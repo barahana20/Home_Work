@@ -18,14 +18,5 @@
     <ClCompile Include="1번.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\2장_2번\2번.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="..\2장_3번\3번.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="..\2장_4번\4번.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>
