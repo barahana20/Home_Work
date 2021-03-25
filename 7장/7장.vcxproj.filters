@@ -15,13 +15,31 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ifelse.c">
+    <ClCompile Include="ex1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="switch.c">
+    <ClCompile Include="dowhile.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="test.c">
+    <ClCompile Include="gotoxy.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="arrowKeyValue.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="arrowKeyRLUD.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="forcel2far3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="forbit.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="forsum.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="inputsum.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

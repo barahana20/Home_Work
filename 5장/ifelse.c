@@ -4,20 +4,14 @@
 
 int main()
 {
-	int n;
+	double gpa;
 
-	printf("정수 입력:");
-	scanf("%d", &n);
+	printf("평균평점 입력:");
+	scanf("%lf", &gpa);
 
-	if (n % 2)
+	if (gpa >= 4.3)
 	{
-		printf("홀수");
+		printf("최고우수");
 	}
-	else
-	{
-		printf("짝수");
-	}
-	(n % 2) ? printf("홀수") : printf("짝수");;
-	printf("입니다.\n");
 	return 0;
 }
